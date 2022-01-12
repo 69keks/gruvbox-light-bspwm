@@ -2,7 +2,6 @@
 .cache/
 .config/chromium/
 .config/cmus/
-.config/discocss/
 .config/discord/
 .config/dconf/
 .config/gtk-3.0/

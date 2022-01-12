@@ -130,11 +130,11 @@ super + shift + {z,b,m}
 
 # Screenshots
 Print
-	scrot '/home/melvilli/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'
+	sh -c "scrot '$HOME/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'"
 ctrl + Print
-	scrot -u '/home/melvilli/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'
+	sh -c "scrot -u '$HOME/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'"
 shift + Print
-	scrot -s '/home/melvilli/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'
+	sh -c "scrot -s '$HOME/Pictures/Screenshots/%Y-%m-%d-%H-%M-%S.png'"
 
 # Keyboard Backlight Control
 XF86KbdBrightness{Up,Down}
