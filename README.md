@@ -1,15 +1,16 @@
 # gruvbox-light-bspwm
 * Am bored, so decided to make a repo out of my dotfiles.
 * Also useful in case I switch WMs or DEs and want to come back to my old setup.
+* Details about setup at the end of README.
 
 # Preview
-* Desktop preview
+## Desktop preview
 ![](assets/desktop-ss.png)
 
-* Neofetch preview
+## Neofetch preview
 ![](assets/neofetch-gruvbox-light.png)
 
-* Discord
+## Discord
 ![](assets/discord-ss.png)
 
 # Details
